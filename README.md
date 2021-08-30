@@ -20,3 +20,8 @@ If we  try to register with same email which is already registered
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/57191519/131403070-bcde07b0-fa9d-4d00-b949-f08b537c6925.png)
 
+if we sucessfully Registered then we will automatically redirect to login page with a success message. 
+
+![Screenshot (31)](https://user-images.githubusercontent.com/57191519/131403079-18ff91c4-c98b-4191-bfc9-2c9b615f9ea3.png)
+
+
