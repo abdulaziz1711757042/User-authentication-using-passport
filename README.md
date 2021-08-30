@@ -11,4 +11,7 @@ Login page
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/57191519/131402993-a5ca2740-9127-42b3-a014-b38fccfb3a20.png)
 
+If we set a password lower than six digit then it shows a warning 
+
+![Screenshot (29)](https://user-images.githubusercontent.com/57191519/131403054-ebdf8de7-098c-4137-a39f-6f8e6e69bc89.png)
 
