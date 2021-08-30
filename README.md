@@ -24,4 +24,9 @@ if we sucessfully Registered then we will automatically redirect to login page w
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/57191519/131403079-18ff91c4-c98b-4191-bfc9-2c9b615f9ea3.png)
 
+ 
+If we sucessfully login then we will go to dashboard with username 
+
+![Screenshot (27)](https://user-images.githubusercontent.com/57191519/131403015-4ceb7934-1e55-4414-96f1-80afbd5c683c.png)
+
 
