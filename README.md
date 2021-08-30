@@ -15,3 +15,8 @@ If we set a password lower than six digit then it shows a warning
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/57191519/131403054-ebdf8de7-098c-4137-a39f-6f8e6e69bc89.png)
 
+If we  try to register with same email which is already registered
+
+
+![Screenshot (30)](https://user-images.githubusercontent.com/57191519/131403070-bcde07b0-fa9d-4d00-b949-f08b537c6925.png)
+
