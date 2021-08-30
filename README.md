@@ -29,4 +29,11 @@ If we sucessfully login then we will go to dashboard with username
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/57191519/131403015-4ceb7934-1e55-4414-96f1-80afbd5c683c.png)
 
+After log out we will Redirect to login page with a message . 
+
+
+![Screenshot (28)](https://user-images.githubusercontent.com/57191519/131403044-8862fed2-cb6e-42e9-860e-abbfe721326c.png)
+
+
+
 
