@@ -2,3 +2,8 @@
 This is login or Register homepage
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/57191519/131402189-a498bf69-8a4c-421c-a9d5-28cc16696f7a.png)
+
+Registration Page look-like
+
+![Screenshot (25)](https://user-images.githubusercontent.com/57191519/131402683-b0bbe140-d627-4aa9-83de-6b6d8e2ac0f8.png)
+
